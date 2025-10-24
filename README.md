@@ -1,7 +1,10 @@
 # ArgoCD demo
 taken from this video tutorial: https://www.youtube.com/watch?v=MeU5_k9ssrs
 
+#### Prereqs
 
+make sure you have kubectl and some kind of kubernetes cluster set up. I'm using Minikube for this, which is probably the easier way to get started if you want to try this out. 
+Link here: https://minikube.sigs.k8s.io/docs/
 
 
 #### Commands
